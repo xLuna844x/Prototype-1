@@ -14,5 +14,5 @@ Assignments, for Canvas, are:
 
 * [Start Your 3D Engines](https://github.com/Create-With-Code-Master/P1.1-Start-Your-3D-Engines)
 * [Pedal To The Metal](https://github.com/Create-With-Code-Master/P1.2-Pedal-To-The-Metal)
-* [](https://github.com/Create-With-Code-Master/P1.3-)
+* [High Speed Chase](https://github.com/Create-With-Code-Master/P1.3-High-Speed-Chase)
 * [Step Into The Driver's Seat](https://github.com/Create-With-Code-Master/P1.4-Step-Into-The-Driver-Seat)
