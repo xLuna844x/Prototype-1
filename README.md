@@ -10,4 +10,9 @@ To get started:
 * Click on the new project to launch Unity. The first time you launch it will be sloooow, like 3 or 4 minutes. Subsequent launches will be much faster.
 * Pick up the tutorial at Lesson 1.1 step 4.
 
-Assignments, for Canvas, are in the [Create With Code](https://github.com/DouglasUrner/Create-With-Code.git) repository.
+Assignments, for Canvas, are:
+
+* [Start Your 3D Engines](https://github.com/Create-With-Code-Master/P1.1-Start-Your-3D-Engines)
+* [Pedal To The Metal](https://github.com/Create-With-Code-Master/P1.2-Pedal-To-The-Metal)
+* [](https://github.com/Create-With-Code-Master/P1.3-)
+* [Step Into The Driver's Seat](https://github.com/Create-With-Code-Master/P1.4-Step-Into-The-Driver-Seat)
