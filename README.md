@@ -1,6 +1,6 @@
 # Prototype 1: Player Control
 
-Starter assets for Prototype 1 from the Unity [Create With Code](https://learn.unity.com/course/create-with-code) curriculum.
+Starter assets for Prototype 1 from the Unity [Create With Code Unit 1](https://learn.unity.com/project/unit-1-driving-simulation?courseId=5cf96c41edbc2a2ca6e8810f).
 
 To get started:
 
